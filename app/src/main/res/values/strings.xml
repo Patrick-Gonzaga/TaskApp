@@ -1,0 +1,45 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">TaskApp</string>
+
+    <!-- Status Task -->
+    <string name="status_task_todo">A Fazer</string>
+    <string name="status_task_doing">Fazendo</string>
+    <string name="status_task_done">Feito</string>
+
+    <!-- Login & Authentication -->
+    <string name="e_mail">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="hintEmail">Digite seu E-mail</string>
+    <string name="hintSenha">Digite sua Senha</string>
+    <string name="btnLogin">Login</string>
+    <string name="createAcc">Criar conta</string>
+    <string name="recoverPassword">Esqueci minha senha</string>
+    <string name="instructionRecoverAcc">
+        Informe seu e-mail de cadastro para receber o link\npara alteração da senha.
+    </string>
+    <string name="btnSend">Enviar</string>
+    <string name="btnCreateAcc">Criar conta</string>
+
+    <!-- Warnings & Errors -->
+    <string name="textWarningBS">Atenção</string>
+    <string name="btnWarningBS">Entendi</string>
+    <string name="emailEmpty">Digite seu e-mail.</string>
+    <string name="passwordEmpty">Digite sua senha.</string>
+    <string name="emailRegisterEmpty">Digite um e-mail.</string>
+    <string name="passwordRegisterEmpty">Digite uma senha.</string>
+    <string name="taskDescriptionEmpty">Descreva sua tarefa.</string>
+    <string name="taskStatusEmpty">Selecione um status.</string>
+
+    <!-- Miscellaneous -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titleFragmentRecoverAcc">Recuperar conta</string>
+    <string name="titleFragmentCreateAcc">Criar conta</string>
+    <string name="description">Descrição</string>
+    <string name="hintDescription">Tirar o lixo</string>
+    <string name="status">Status</string>
+    <string name="statusRadio1">A fazer</string>
+    <string name="statusRadio2">Fazendo</string>
+    <string name="statusRadio3">Feito</string>
+    <string name="btnSave">Salvar</string>
+</resources>
